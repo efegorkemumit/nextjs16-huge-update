@@ -7,6 +7,7 @@ const HomePage = () => {
       <Link href="/variant/1">Variant 1 Prefetching</Link>
       <Link href="/variant/2">Variant 2 Prefetching</Link>
       <Link href="/variant/3">Variant 1 cacheComponents</Link>
+      <Link href="/variant/4">Variant 2 cacheComponents</Link>
 
     </div>
   )
